@@ -18,4 +18,4 @@ entity framework  ile filtreleyerek gosteriniz.
 9. AutoMapper kullanarak request ve response classlari olarak Entity yada Dto
 nesneleri kullaniniz.
 10. Request ve response lar da data model classlarini kullanmayiniz.
-11. Odevi 3 Temmuz Saat 23.59 a kadar teslim edebilirsiniz.
+11. Odevi 3 Haziran Saat 23.59 a kadar teslim edebilirsiniz.
