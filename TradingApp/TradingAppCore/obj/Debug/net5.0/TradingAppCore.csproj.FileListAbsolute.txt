@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\bin\Debug\net5.0\TradingAppCore.deps.json
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\bin\Debug\net5.0\TradingAppCore.dll
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\bin\Debug\net5.0\TradingAppCore.pdb
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\bin\Debug\net5.0\TradingAppData.dll
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\bin\Debug\net5.0\TradingAppEntity.dll
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\bin\Debug\net5.0\TradingAppData.pdb
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\bin\Debug\net5.0\TradingAppEntity.pdb
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\TradingAppCore.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\TradingAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\TradingAppCore.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\TradingAppCore.AssemblyInfo.cs
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\TradingAppCore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\TradingAppCore.csproj.CopyComplete
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\TradingAppCore.dll
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\refint\TradingAppCore.dll
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\TradingAppCore.pdb
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppCore\obj\Debug\net5.0\ref\TradingAppCore.dll

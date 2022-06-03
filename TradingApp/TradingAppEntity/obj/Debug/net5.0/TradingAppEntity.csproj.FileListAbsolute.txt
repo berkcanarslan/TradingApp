@@ -1,0 +1,12 @@
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\bin\Debug\net5.0\TradingAppEntity.deps.json
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\bin\Debug\net5.0\TradingAppEntity.dll
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\bin\Debug\net5.0\TradingAppEntity.pdb
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\TradingAppEntity.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\TradingAppEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\TradingAppEntity.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\TradingAppEntity.AssemblyInfo.cs
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\TradingAppEntity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\TradingAppEntity.dll
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\refint\TradingAppEntity.dll
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\TradingAppEntity.pdb
+C:\Users\ASUS\Documents\source\Bootcamp\TradingApp\TradingApp\TradingAppEntity\obj\Debug\net5.0\ref\TradingAppEntity.dll
